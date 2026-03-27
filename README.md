@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey 👋 I'm Gaurav Aggarwal  <br><br>🚀 B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast  <br><br>💡 I focus on building scalable, real-world applications that solve meaningful problems  <br><br>🧠 Currently working on:<br>→ Data Structures & Algorithms  <br>→ Full-Stack Development  <br>→ AI-driven Applications & Integrations  <br><br>📈 Professional Focus:<br>→ Writing clean, maintainable, and efficient code  <br>→ Designing scalable and user-centric systems  <br>→ Continuous learning and problem solving  <br><br>📫 Connect with me:<br>→ LinkedIn: https://www.linkedin.com/in/gaurav-aggarwal-427520288/<br>→ Email: gauravaggarwal147258@gmail.com<br><br>⚡ "Building technology that makes an impact."
+# 💫 Hey 👋 I'm Gaurav Aggarwal:
+🚀 B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast  <br><br>💡 I focus on building scalable, real-world applications that solve meaningful problems  <br><br>🧠 Currently working on:<br>→ Data Structures & Algorithms  <br>→ Full-Stack Development  <br>→ AI-driven Applications & Integrations  <br><br>📈 Professional Focus:<br>→ Writing clean, maintainable, and efficient code  <br>→ Designing scalable and user-centric systems  <br>→ Continuous learning and problem solving  <br><br>📫 Connect with me:<br>→ LinkedIn: https://www.linkedin.com/in/gaurav-aggarwal-427520288/<br>→ Email: gauravaggarwal147258@gmail.com<br><br>⚡ "Building technology that makes an impact."
 
 
 ## 🌐 Socials:
