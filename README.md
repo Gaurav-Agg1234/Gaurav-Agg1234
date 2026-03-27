@@ -6,7 +6,8 @@
 <p>
 <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/gaurav-aggarwal-427520288/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:gauravaggarwal147258@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-</p><br>→ LinkedIn: https://www.linkedin.com/in/gaurav-aggarwal-427520288/<br>→ Email: gauravaggarwal147258@gmail.com<br><br>⚡ "Building technology that makes an impact."
+</p><br>
+⚡ "Building technology that makes an impact."
 
 
 ## 🌐 Socials:
