@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gaurav Aggarwal</h1>
-<h3 align="center">🚀 B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast </h3>
+<h3 align="center">B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast </h3>
 
  💡 I focus on building scalable, real-world applications that solve meaningful problems  <br><br>🧠 Currently working on:<br>→ Data Structures & Algorithms  <br>→ Full-Stack Development  <br>→ AI-driven Applications & Integrations  <br><br>📈 Professional Focus:<br>→ Writing clean, maintainable, and efficient code  <br>→ Designing scalable and user-centric systems  <br>→ Continuous learning and problem solving  <br><br>
 📫 Connect with me:
