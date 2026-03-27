@@ -1,5 +1,16 @@
-# 💫 Hey 👋 I'm Gaurav Aggarwal:
-🚀 B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast  <br><br>💡 I focus on building scalable, real-world applications that solve meaningful problems  <br><br>🧠 Currently working on:<br>→ Data Structures & Algorithms  <br>→ Full-Stack Development  <br>→ AI-driven Applications & Integrations  <br><br>📈 Professional Focus:<br>→ Writing clean, maintainable, and efficient code  <br>→ Designing scalable and user-centric systems  <br>→ Continuous learning and problem solving  <br><br>📫 Connect with me:<br>→ LinkedIn: https://www.linkedin.com/in/gaurav-aggarwal-427520288/<br>→ Email: gauravaggarwal147258@gmail.com<br><br>⚡ "Building technology that makes an impact."
+<h1 align="center">Hi 👋, I'm Gaurav Aggarwal</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Builder;Problem+Solver;Always+Learning+New+Things" />
+</p>
+🚀 B.Tech Computer Science Student | Full-Stack Developer | AI Enthusiast  <br><br>💡 I focus on building scalable, real-world applications that solve meaningful problems  <br><br>🧠 Currently working on:<br>→ Data Structures & Algorithms  <br>→ Full-Stack Development  <br>→ AI-driven Applications & Integrations  <br><br>📈 Professional Focus:<br>→ Writing clean, maintainable, and efficient code  <br>→ Designing scalable and user-centric systems  <br>→ Continuous learning and problem solving  <br><br>
+📫 Connect with me:
+<p align="center">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/gaurav-aggarwal-427520288/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:gauravaggarwal147258@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p><br>→ LinkedIn: https://www.linkedin.com/in/gaurav-aggarwal-427520288/<br>→ Email: gauravaggarwal147258@gmail.com<br><br>⚡ "Building technology that makes an impact."
 
 
 ## 🌐 Socials:
